@@ -4,6 +4,8 @@ A click-through tutorial on Jev and two Claude Code setups. Plain HTML, CSS, and
 
 https://superrich.github.io/jev-tutorial/
 
+If that URL 404s, open the repo Settings, then Pages, and set Source to GitHub Actions. The workflow publishes the `docs` folder from `main`. Until then, open `docs/index.html` locally.
+
 Repo: https://github.com/SuperRich/jev-tutorial
 
 ## What you'll learn
